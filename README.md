@@ -9,7 +9,7 @@ So I had to limit the data set to complete training runs. This adversely affecte
 
 [See RandomForest code here](https://github.com/andriescoetsee/my_first_kaggle_competition/blob/4921edfc802a2aa1c968ae869392150fbf53ad9f/30-days-of-ml-random-forest.ipynb)
 
-Then, I used the XGBoost algorithm using the same framework (utilization the full data set of 300,000 observations for training)
+Then, I used the XGBoost algorithm using the same framework (utilization the full data set of 300,000 observations for training).
 This algorithm utilizes GPU, what a pleasure it was to train the model, adjust parameters and retrain. 
 
 [See XGBoost code here](https://github.com/andriescoetsee/my_first_kaggle_competition/blob/f7237fce1afbd4183cc4e49d1a595238cee49315/30-days-of-ml-xgboost.ipynb)
