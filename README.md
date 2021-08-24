@@ -20,7 +20,7 @@ At the time of submission the #1 position produced a RMSE of 0.71727 while my ow
 The leaderboard was calculated with approximately 25% of the test data. While the final results would be based on the other 75%, so the final standings may be different.
 
 Next step is to understand why XBoost is superior in the regression task. 
-An interesting concept to consider is using Bayesian optimization when doing hyper-parameter selection. See Jupyter Notebook [here](https://github.com/andriescoetsee/my_first_kaggle_competition/blob/f7237fce1afbd4183cc4e49d1a595238cee49315/30-days-of-ml-xgboost.ipynb)
+An interesting concept to consider is using Bayesian optimization when doing hyper-parameter selection. See Jupyter Notebook [here](https://github.com/andriescoetsee/my_first_kaggle_competition/blob/be4682e42d556822c46e966cee80071e86ca62b8/tutorial-bayesian-optimization-with-xgboost.ipynb)
 
 Furthermore, I would like to learn more about [feature engineering](https://www.kaggle.com/learn/feature-engineering)
 
