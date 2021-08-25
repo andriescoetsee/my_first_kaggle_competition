@@ -10,7 +10,7 @@ So I had to limit the dataset in order to complete training runs. This adversely
 
 [See RandomForest code here](https://github.com/andriescoetsee/my_first_kaggle_competition/blob/4921edfc802a2aa1c968ae869392150fbf53ad9f/30-days-of-ml-random-forest.ipynb)
 
-Then, I used the XGBoost algorithm using the same framework, however this time utilization the full data set of 300,000 observations for training.
+Then, I tried out the XGBoost algorithm using the same framework. However, this time utilization the full dataset of 300,000 observations for training.
 This algorithm utilizes GPU, what a pleasure it was to train the model, adjust parameters, retrain and then seeing how the RMSE (root mean squared error as loss metric) descreases. 
 
 [See XGBoost code here](https://github.com/andriescoetsee/my_first_kaggle_competition/blob/f7237fce1afbd4183cc4e49d1a595238cee49315/30-days-of-ml-xgboost.ipynb)
@@ -28,7 +28,7 @@ In total there were close to 6,000 participants. The leaderboard was calculated 
 
 * Furthermore, I would like to learn more about [feature engineering](https://www.kaggle.com/learn/feature-engineering).
 
-#### Finally, in the competition the RMSE differences became marginal between the top 10 where the differentiators were feature engineering and hyper-parameter optimization.
+##### Finally, in the competition the RMSE differences became marginal between the top 10 where the differentiators were feature engineering and hyper-parameter optimization.
 
 
 
