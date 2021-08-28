@@ -17,8 +17,8 @@ This algorithm utilizes GPU, what a pleasure it was to train the model, adjust p
 
 ## Conclusion
 
-At the time of submission the #1 position produced a RMSE of 0.71727 while my own score came in at #1045 with RMSE 0.71948. 
-In total there were close to 6,000 participants. The leaderboard was calculated with approximately 25% of the test data. While the final results would be based on the other 75%, so the final standings may be different.
+At the time of submission the #1 position produced a RMSE of 0.71727 while my own score came in at #1591 with RMSE 0.71948. 
+In total there were over 6,000 participants. The leaderboard was calculated with approximately 25% of the test data. While the final results would be based on the other 75%, so the final standings may be different.
 
 * Next steps is to understand why XBoost is superior in the regression task. 
 
@@ -28,7 +28,7 @@ In total there were close to 6,000 participants. The leaderboard was calculated 
 
 * Furthermore, I would like to learn more about [feature engineering](https://www.kaggle.com/learn/feature-engineering).
 
-##### Finally, in the competition the RMSE differences became marginal between the top 10 where the differentiators were feature engineering and hyper-parameter optimization.
+##### Finally, in the competition the RMSE differences became marginal between the top 10 where the differentiators were feature engineering, hyper-parameter optimization and ensemble combinations (stacking of predictors). 
 
 
 
