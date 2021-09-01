@@ -1,6 +1,5 @@
 # [30 Days of ML](https://www.kaggle.com/c/30-days-of-ml)
 
-![image](https://user-images.githubusercontent.com/34986276/130677626-5ac832fb-ba23-4f43-b621-ce999df4e3e4.png)
 ![image](https://user-images.githubusercontent.com/34986276/131709426-c83fab26-6e78-4ae6-a89c-3a36a6820f33.png)
 
 30 Days of ML on Kaggle was an in class prediction competition on a regression task.
