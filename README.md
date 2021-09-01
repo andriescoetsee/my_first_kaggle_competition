@@ -1,6 +1,7 @@
 # [30 Days of ML](https://www.kaggle.com/c/30-days-of-ml)
 
 ![image](https://user-images.githubusercontent.com/34986276/130677626-5ac832fb-ba23-4f43-b621-ce999df4e3e4.png)
+![image](https://user-images.githubusercontent.com/34986276/131709426-c83fab26-6e78-4ae6-a89c-3a36a6820f33.png)
 
 30 Days of ML on Kaggle was an in class prediction competition on a regression task.
 
@@ -17,8 +18,10 @@ This algorithm utilizes GPU, what a pleasure it was to train the model, adjust p
 
 ## Conclusion
 
-At the time of submission the #1 position produced a RMSE of 0.71727 while my own score came in at #1591 with RMSE 0.71948. 
-In total there were over 6,000 participants. The leaderboard was calculated with approximately 25% of the test data. While the final results would be based on the other 75%, so the final standings may be different.
+At the time of submission the #1 position produced a RMSE of 0.71533 while my own score came in at #2311 with RMSE 0.71781. 
+In total there were 7,573 participants. 
+
+![image](https://user-images.githubusercontent.com/34986276/131710214-2a908a25-c85d-47f2-8aa6-75ec6f84261f.png)
 
 * Next steps is to understand why XBoost is superior in the regression task. 
 
